@@ -1,4 +1,18 @@
-data_1m/
-out_shortbot/
-.env
+# Python
 __pycache__/
+*.pyc
+*.pyo
+
+# Outputs / Logs
+out/
+.streamlit/
+
+# Secrets / Env
+.env
+secrets.toml
+
+# IDE / OS
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini
