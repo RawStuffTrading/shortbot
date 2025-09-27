@@ -1,0 +1,6 @@
+pandas
+numpy
+pyarrow
+python-dotenv
+PyYAML
+pytest

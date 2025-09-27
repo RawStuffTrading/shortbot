@@ -1,0 +1,4 @@
+data_1m/
+out_shortbot/
+.env
+__pycache__/

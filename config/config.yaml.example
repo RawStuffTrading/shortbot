@@ -1,0 +1,3 @@
+paths:
+  data_1m: ./data_1m/
+  out: ./out_shortbot/

@@ -1,0 +1,1 @@
+print('SHORTBOT core placeholder')
